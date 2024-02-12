@@ -1,0 +1,5 @@
+baseURL = 'https://myblog.jspann.github.io/'
+languageCode = 'en-us'
+title = 'While in the lab'
+theme="holy"
+publishDir="docs"
